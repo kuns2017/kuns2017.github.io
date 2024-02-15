@@ -14,27 +14,27 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Kuns Dev # the main title
+title: kuns dev # the main title
 
-tagline: fullstack development # it will display as the sub-title
+tagline: kuns development logs # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  블로그 소개인데 뭐라고 쓸까? ㅎ
+  개발관련 자료 저장소로 활용하기 위함
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://kuns2017.github.io"
+url: ""
 
 github:
   username: kuns2017 # change to your github username
 
 twitter:
-  username: "" # change to your twitter username
+  username: # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: kuns
+  name: kuns lee
   email: lky.kuns.kr@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
